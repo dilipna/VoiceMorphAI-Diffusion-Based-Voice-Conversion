@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+gradio
+librosa
+soundfile
+soxr
+matplotlib
+scipy
